@@ -32,3 +32,14 @@
 [链接](https://blog.csdn.net/u014361280/article/details/91888091)
 #### iOS 集成Unity AR
 [链接](https://www.jianshu.com/p/f325acd95290)
+
+## ARCore Depth API开发
+[总流程](https://mp.weixin.qq.com/s/NGwC67lk8JZRibs_vQGMfg)
+##### 前期准备
+[学习构建首个应用](https://developer.android.com/training/basics/firstapp)
+[支持设备列表](https://developers.google.cn/ar/discover/supported-devices)
+[深度图的动态算法](https://developers.google.com/ar/reference/java/arcore/reference/com/google/ar/core/Frame#acquireDepthImage())
+
+##### 打开示例项目
+[启用 ARCore](https://developers.google.cn/ar/develop/java/enable-arcore)
+[点击以下链接获取示例项目](git clone https://github.com/google-ar/arcore-android-sdk.git)
